@@ -5,7 +5,7 @@ Tailwind Css
 Responsive Design
 -- Usage for Local with github link:-
 
-git clone 
+git clone -  https://github.com/Susmita-Maity/BookManagementLibraryApp-Redux.git
 cd "folderName"
 npm install
 npm run dev
